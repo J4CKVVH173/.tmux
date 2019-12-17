@@ -1,8 +1,8 @@
-#tmux.conf
+# tmux.conf
 
 Настроечный файл для tmux.conf
 
-##Настроечный файл
+## Настроечный файл
 
 Файл настроек основывается на `https://github.com/gpakosz/.tmux` с настройками под меня. Устанавливать непосредственно в домашней дерриктории.
 Изменения от оригинала
@@ -12,10 +12,10 @@
 1.Копирование в буфер системы установлено в true
 1.Разрешено изменение размера оконе мышкой
 
-##Установка
+## Установка
 ```
 $ cd
-$ git clone https://github.com/gpakosz/.tmux.git
+$ git clone https://github.com/J4CKVVH173/tmux.conf.git
 $ ln -s -f .tmux/.tmux.conf
 $ cp .tmux/.tmux.conf.local .
 ```
