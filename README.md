@@ -15,7 +15,7 @@
 ## Установка
 ```
 $ cd
-$ git clone https://github.com/J4CKVVH173/tmux.conf.git
+$ git clone https://github.com/J4CKVVH173/tmux.conf.git ~/.tmux
 $ ln -s -f .tmux/.tmux.conf
 $ cp .tmux/.tmux.conf.local .
 ```
