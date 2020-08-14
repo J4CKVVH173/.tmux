@@ -17,6 +17,6 @@
 $ cd
 $ git clone https://github.com/J4CKVVH173/tmux.conf.git ~/.tmux
 $ ln -s -f .tmux/.tmux.conf
-$ cp .tmux/.tmux.conf.local .
+$ cp ~/.tmux/.tmux.conf.local .
 ```
 Для работы копирования в буфер необходимо поставить xclip. Переход в режим копирования префикс + enter. Выделенная строка автоматом попадает в буфер.
